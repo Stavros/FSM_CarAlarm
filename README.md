@@ -9,8 +9,8 @@ This is a VHDL project for DSD-I1* a Cyclone IV FPGA made in Quartus 18.1 and is
 **Diagram**:  
 ![Diagram](./FSM_CarAlarm.jpg)
 
-Behavioral VHDL code: FSM_CarAlarm.vhd  
-Testbench VHDL code: FSM_CarAlarm_tb.vhd  
+**Behavioral VHDL code**: FSM_CarAlarm.vhd  
+**Testbench VHDL code**: FSM_CarAlarm_tb.vhd  
 
 **Modelsim**:  
 ![FPGA](./FSM_CarAlarm_modelsim.jpg)
