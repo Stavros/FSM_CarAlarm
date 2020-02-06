@@ -15,7 +15,7 @@ This is a VHDL project for DSD-I1* a Cyclone IV FPGA made in Quartus 18.1 and is
 **Modelsim**:  
 ![FPGA](./FSM_CarAlarm_modelsim.jpg)
 
-*Note: DSD-i1: A Mixed Functionality Development Board Geared Towards Digital Systems Design Education [DOI:10.1109/DSD.2019.00032](https://www.researchgate.net/deref/http%3A%2F%2Fdx.doi.org%2F10.1109%2FDSD.2019.00032?_sg%5B0%5D=v-cnN-1Q246lx6ZElyyd_L2GLjVH2cDblXKnupqF6zBTWGsRmigTw_ho2UEIExompd-pfg1aXKe2HxtKhm8yTj_qKA.RFCrYuolSv1xRRtksL0NU8xa-sfrV6ZTsQm8Z6Ge2xh6ypvMKM0sHAtBECzdcRJoFOjJpYWyh5DrIrnMCZrsYA)
+*Note: DSD-i1: A Mixed Functionality Development Board Geared Towards Digital Systems Design Education [DOI:10.1109/DSD.2019.00032](https://ieeexplore.ieee.org/document/8875176)
 
 ## Licence
 
